@@ -1,4 +1,4 @@
-# SPTech-Desenvolvimento-Back-end <br /> 
+# SPTech Desenvolvimento Back-end <br /> 
 
 *Bootcamp backend usando a linguagem back-end PHP, <br /> 
 *Linguagem de marcação: HTML5, <br /> 
